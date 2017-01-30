@@ -1,1 +1,0 @@
-# beg-for-mercy.github.io
