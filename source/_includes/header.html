@@ -1,0 +1,11 @@
+<header class="header{% if page.slug == 'home' %} alt{% endif %}">
+  <div class="container">
+    <h1><a href="{{ "/" | prepend: site.baseurl }}"><strong>beg-for-mercy</strong>.github.io</a></h1>
+    <nav class="navbar">
+      <ul>
+        <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+        <li><a href="{{ "/#" | prepend: site.baseurl }}">Clan Status</a></li>  <!--- todo server -->
+      </ul>
+    </nav>
+  </div>
+</header>
