@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beg for Mercy</title>
+    <description>Clash of Clans</description>
+    <link>http://beg-for-mercy.github.io/</link>
+    <atom:link href="http://beg-for-mercy.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Jan 2017 17:25:54 +0530</pubDate>
+    <lastBuildDate>Tue, 31 Jan 2017 17:25:54 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Some rules are meant to be broken, these aren&#39;t</title>
+        <description>&lt;p&gt;rules, lolz.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Jan 2017 03:09:18 +0530</pubDate>
+        <link>http://beg-for-mercy.github.io/bfm-rules/</link>
+        <guid isPermaLink="true">http://beg-for-mercy.github.io/bfm-rules/</guid>
+        
+        <category>rules</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>A wonderful journey has begun</title>
+        <description>&lt;p&gt;Welcome to our website. This website, I hope will be a new chapter for our clan. We started this journey almost a year ago. Since then, our clan has grown up. We have had our fair share of problems, yet we are here, almost intact. Almost, because we have lost a few members (though I hope to get them back). Eventually, this website will serve as a clan details page and recruitment platform (if it ever comes to that). Meanwhile, we have wars to win and fun to be had. Semper fi.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Jan 2017 22:09:18 +0530</pubDate>
+        <link>http://beg-for-mercy.github.io/first-beat/</link>
+        <guid isPermaLink="true">http://beg-for-mercy.github.io/first-beat/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
