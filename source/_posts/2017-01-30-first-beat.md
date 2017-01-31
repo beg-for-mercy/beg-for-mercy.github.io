@@ -5,6 +5,9 @@ date: 2017-01-30 16:39:18
 comments: false
 description: "A wonderful journey has begun"
 keywords: ""
+author_name: "okabe"
+author_tag: "22GV0UQGU"
+name_url: "okabe"
 categories:
 - welcome
 tags:

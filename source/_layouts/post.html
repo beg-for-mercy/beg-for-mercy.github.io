@@ -39,6 +39,13 @@ comments: true
         {% endif %}
         {{ categories_content }}
       </span>
+      <span>
+        {% assign post = page %}
+        {% if post.author_name %}
+          <i> by  </i>
+          <a href="https://www.clashofstats.com/players/{{ post.name_url }}-{{ post.author_tag }}/profile" target="_blank"><span style = "color: #c7254e; background-color: #f9f2f4" > {{post.author_name}}, #{{post.author_tag}} </span></a>
+        {% endif %}
+      </span>
     </div>
   </header>
 
