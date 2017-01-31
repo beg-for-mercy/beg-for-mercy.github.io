@@ -4,3 +4,12 @@
 
 - slug: rules
   name: Rules
+
+- slug: general
+  name: General
+
+- slug: strategy
+  name: Strategy
+
+- slug: vlog
+  name: Vlog
